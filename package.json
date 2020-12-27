@@ -1,0 +1,12 @@
+{
+  "name": "pikaday",
+  "version": "1.8.2",
+  "description": "Momentless version of Pikaday",
+  "author": "Erik van 't Klooster",
+  "main": "dist/main/pikaday.js",
+  "module": "dist/module/pikaday.js",
+  "types": "types/index.d.ts",
+  "typescript": {
+    "definition": "index/pikaday.d.ts"
+  }
+}
