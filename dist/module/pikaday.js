@@ -1186,6 +1186,7 @@ function factory() {
 
   };
 
+  return Pikaday;
 };
 
 export const Pikaday = factory();
