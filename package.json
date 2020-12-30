@@ -1,7 +1,7 @@
 {
-  "name": "pikaday",
+  "name": "pikaday-no-moment",
   "version": "1.8.2",
-  "description": "Momentless but typed version of Pikaday",
+  "description": "Pikaday without moment but with types",
   "author": "Erik van 't Klooster (https://github.com/EvtK)",
   "main": "dist/main/pikaday.js",
   "module": "dist/module/pikaday.js",
